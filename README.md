@@ -2,7 +2,7 @@
 
 ## 💡 Sobre o Projeto
 
-* Este é o Projeto 1 do meu portfólio em Java. É um aplicativo de console simples que demonstra Lógica de Programação, Estruturas de Controle (while, switch) e manipulação da Collection ArrayList.
+* Este é um Projeto Acadêmico em Java. É um aplicativo de console simples que demonstra Lógica de Programação, Estruturas de Controle (while, switch) e manipulação da Collection ArrayList.
 
 ## 🛠️ Tecnologias Utilizadas
 
