@@ -1,18 +1,31 @@
-## Getting Started
+# 🚀 Gerenciador de Tarefas em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 💡 Sobre o Projeto
 
-## Folder Structure
+* Este é o Projeto 1 do meu portfólio em Java. É um aplicativo de console simples que demonstra Lógica de Programação, Estruturas de Controle (while, switch) e manipulação da Collection ArrayList.
 
-The workspace contains two folders by default, where:
+## 🛠️ Tecnologias Utilizadas
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* Java (JDK 17+)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## ✨ Funcionalidades
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+* Adicionar novas tarefas. 
+* Listar tarefas com índices. 
+* Remover tarefas por número. 
+* Tratamento de erros básicos (ex: entrada não numérica).
 
-## Dependency Management
+## 💻 Como Executar
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Clone o repositório: git clone https://github.com/MariadDsoares/GerenciadorDeTarefasJava/commit/aeb6693531ddda9875b68c6ddfebca0673fed1cd 
+
+2. Compile o arquivo ToDoList.java. 
+
+3. Execute a classe principal no seu terminal.
+
+## 🧠 Conceitos de Java Aplicados
+
+* POO Básico: Uso de Classes e Objetos (ToDoList e Scanner). 
+* Collections: Uso da classe ArrayList para armazenamento dinâmico. 
+* I/O: Entrada e Saída de dados via System.out e Scanner. 
+* Tratamento Básico: Uso de try-catch para validação de entrada.
